@@ -71,3 +71,9 @@
 .foodItemLists ul li {
   cursor: pointer;
 }
+
+@media (max-width: 576px) {
+  .navbar {
+    margin-top: 0;
+  }
+}

@@ -82,4 +82,9 @@ img {
   .grid-wrapper .item7 {
     grid-column: span 1;
   }
+
+  .grid-wrapper button {
+    padding: 8px 25px;
+    font-size: 18px;
+  }
 }

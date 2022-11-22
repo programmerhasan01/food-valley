@@ -76,4 +76,13 @@
   .navbar {
     margin-top: 0;
   }
+
+  .logo h2 {
+    font-size: 25px;
+    line-height: 25.31px;
+  }
+
+  .menuItemContainer {
+    width: 250px;
+  }
 }
